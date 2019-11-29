@@ -3,6 +3,8 @@ package twosum;
 import java.util.Arrays;
 import java.util.HashMap;
 
+//https://leetcode-cn.com/problems/two-sum/
+
 public class Solution {
     public int[] twoSum(int[] nums, int target) {
         HashMap<Integer, Integer> map = new HashMap<Integer, Integer>();
